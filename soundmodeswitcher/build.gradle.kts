@@ -65,4 +65,7 @@ dependencies {
     implementation("androidx.wear.tiles:tiles:1.4.0")
     implementation("androidx.wear.protolayout:protolayout:1.2.0")
     implementation("androidx.wear.protolayout:protolayout-material:1.2.0")
+
+    implementation("androidx.wear.tiles:tiles-tooling-preview:1.6.2")
+    debugImplementation("androidx.wear.tiles:tiles-tooling:1.6.2")
 }
